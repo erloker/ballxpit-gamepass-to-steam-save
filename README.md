@@ -1,7 +1,4 @@
 # ballxpit-gamepass-to-steam-save
-# BALL x PIT Save Converter  
-# BALL x PIT 存档转换工具
-
 ---
 
 ## 🇺🇸 English
